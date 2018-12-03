@@ -1,0 +1,7 @@
+debug
+build
+.kdev*
+calib_images
+StereoCalibration.kdev*
+StereoCalibrator.kdev*
+
